@@ -19,26 +19,26 @@ TechnologyPurposeVersionPythonCore programming language3.8+FastF1F1 telemetry da
 🚀 Features
 📊 Telemetry Analysis
 
-###### Speed Comparison: Track-by-track speed analysis between Verstappen and Hamilton
-###### Throttle Application: Cornering and acceleration patterns
-###### Braking Analysis: Braking points and techniques
-###### Gear Usage: Shifting patterns and optimization
-###### RPM Analysis: Engine performance and power delivery
+##### Speed Comparison: Track-by-track speed analysis between Verstappen and Hamilton
+##### Throttle Application: Cornering and acceleration patterns
+##### Braking Analysis: Braking points and techniques
+##### Gear Usage: Shifting patterns and optimization
+##### RPM Analysis: Engine performance and power delivery
 
 # ⏱️ Race Pace Evolution
 
-###### Lap Time Trends: Full race pace comparison
-###### Final 10 Laps: Critical championship-deciding moments
-###### Safety Car Impact: How the SC changed the race dynamics
+##### Lap Time Trends: Full race pace comparison
+##### Final 10 Laps: Critical championship-deciding moments
+##### Safety Car Impact: How the SC changed the race dynamics
 
 # 🛞 Strategy Analysis
 
-###### Tire Strategy Timeline: Visual representation of pit strategies
-###### Compound Performance: Hard vs Medium vs Soft tire analysis
-###### Strategic Decision Points: Key moments that decided the championship
+##### Tire Strategy Timeline: Visual representation of pit strategies
+##### Compound Performance: Hard vs Medium vs Soft tire analysis
+##### Strategic Decision Points: Key moments that decided the championship
 
 # 🏆 Championship Moments
 
-Position Timeline: Race position changes throughout
-Final Lap Breakdown: Detailed analysis of the decisive overtake
-Key Statistics: Championship-deciding metrics
+##### Position Timeline: Race position changes throughout
+##### Final Lap Breakdown: Detailed analysis of the decisive overtake
+##### Key Statistics: Championship-deciding metrics
